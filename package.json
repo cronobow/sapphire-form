@@ -1,7 +1,7 @@
 {
   "name": "sapphire-form",
   "version": "0.1.0",
-  "homepage": "https://cronobow.github.io/sapphire-form",
+  "homepage": "https://form.sapphire.tw",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
